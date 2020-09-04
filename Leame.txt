@@ -1,0 +1,15 @@
+﻿ICS "Inventory Commercialization System" Reservas de vuelo on-line
+
+
+Para la ejecución del sistema se requieren los siguientes puntos importantes:
+
+
+1. Tener instalado Python3
+
+2. Pickle
+
+3. Reportlab
+4. Barcode (si es necesario)
+
+
+--Ejecutar Aplicación.py--
